@@ -16,12 +16,3 @@ Observations
 ============
 
 Data (packets) is uploading in the server as desired. Fairness achieved. Each client sends data for same slot duration and the number of packets recieved from each client is almost same. There are some duplicate packet counts which is around 3 or 4 packets.
-
-Command
-==================
-
-command for Broadcaster: ./broadcaster 192.168.0.255
-
-command for DataServer: ./dataServer
-
-command for listener (client): ./listener
