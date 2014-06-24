@@ -19,4 +19,4 @@ Command
 
 command for server: ./udpserver
 
-command for client: ./udpclient 127.0.0.1 50 10000
+command for client: ./client_command.sh
